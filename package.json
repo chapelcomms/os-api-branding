@@ -1,0 +1,19 @@
+{
+  "name": "os-api-branding",
+  "version": "0.1.0",
+  "description": "Branding for users developing solutions using OS data supplied via our APIs.",
+  "main": "os-api-branding.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OrdnanceSurvey/os-api-branding.git"
+  },
+  "author": "Ordnance Survey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OrdnanceSurvey/os-api-branding/issues"
+  },
+  "homepage": "https://github.com/OrdnanceSurvey/os-api-branding#readme"
+}
